@@ -1,3 +1,8 @@
+boudua.com/wp-config-ini.php
+www.goolineb2b.com/wp-config-ini.php
+www.triconfabrication.com/wp-includes/wp-config-ini.php
+irshadfoundation.co.za/wp-config-ini.php
+www.blattoamsterdam.com/wp-config-ini.php
 ladiescircle.co.za//wp-config-ini.php
 domesticguardians.co.za/Banner/wp-config-ini.php
 jhphotoedits.co.za/wp-config-ini.php
