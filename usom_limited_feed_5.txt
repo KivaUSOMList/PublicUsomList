@@ -1,3 +1,8 @@
+visionclinic.co.ls/visionclinic/wp-config-ini.php
+www.bmcars.nl/wp-admin/wp-config-ini.php
+www.bashancorp.co.za/wp-config-ini.php
+bogdanandreescu.fit//wp-config-ini.php
+bekkersweldingservice.nl/wp-config-ini.php
 kamas.pk/wp-config-ini.php
 best-digital-slr-cameras.com/wp-config-ini.php
 berped.co.za//wp-config-ini.php
