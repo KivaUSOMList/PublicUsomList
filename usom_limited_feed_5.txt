@@ -1,3 +1,7 @@
+ladiescircle.co.za//wp-config-ini.php
+domesticguardians.co.za/Banner/wp-config-ini.php
+jhphotoedits.co.za/wp-config-ini.php
+bmorecleaning.com/wp-config-ini.php
 findinfo-more.com/wp-config-ini.php
 tuules.com/wp-config-ini.php
 investaholdings.co.za/htc/wp-config-ini.php
