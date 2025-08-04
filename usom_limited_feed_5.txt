@@ -1,3 +1,11 @@
+jdcorporate.co.za/catalog/wp-config-ini.php
+www.wbdrivingschool.com/wp-config-ini.php
+comsip.org.mw/wp-config-ini.php
+desirablehair.co.za/wp-config-ini.php
+fsproperties.co.za/engine1/wp-config-ini.php
+www.harmonyguesthouse.co.za//wp-config-ini.php
+insafradio.pk/pos/wp-config-ini.php
+baynetins.com//wp-config-ini.php
 boudua.com/wp-config-ini.php
 www.goolineb2b.com/wp-config-ini.php
 www.triconfabrication.com/wp-includes/wp-config-ini.php
