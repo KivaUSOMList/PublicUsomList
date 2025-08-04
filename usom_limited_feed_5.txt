@@ -1,3 +1,5 @@
+chickenandkitchen.com/wp-config-ini.php
+www.hosthof.com/wp-config-ini.php
 signsoftime.co.za/wp-config-ini.php
 www.be-indigene.be/wp-config-ini.php
 absfinancialplanning.co.za/images/wp-config-ini.php
