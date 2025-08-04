@@ -1,3 +1,5 @@
+printernet.co.za/wp-config-ini.php
+genesisbs.co.za/wp-config-ini.php
 cybercraft.biz/dist/wp-config-ini.php
 bntlaminates.com/wp-config-ini.php
 embali.co.za/wp-config-ini.php
