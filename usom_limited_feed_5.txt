@@ -1,3 +1,4 @@
+bradleysherrer.com/wp/wp-config-ini.php
 jdcorporate.co.za/catalog/wp-config-ini.php
 www.wbdrivingschool.com/wp-config-ini.php
 comsip.org.mw/wp-config-ini.php
