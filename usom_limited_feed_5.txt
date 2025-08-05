@@ -1,3 +1,8 @@
+aexergy.com/wp-config-ini.php
+best-dreams.com/wp-config-ini.php
+blackthorn.co.za/wp-config-ini.php
+getabletravel.co.za/wpscripts/wp-config-ini.php
+www.amazingtour.pk/wp-config-ini.php
 printernet.co.za/wp-config-ini.php
 genesisbs.co.za/wp-config-ini.php
 cybercraft.biz/dist/wp-config-ini.php
