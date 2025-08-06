@@ -1,3 +1,6 @@
+gokhantemiz.com/wp-includes/widgets/wp-config-ini.php
+4pointshealth.com/wp-admin/includes/wp-config-ini.php
+salmanandassociates.com.pk/db_template.php
 kuveyt-mobil-internet-subesi.com
 mobilfinansbank.com
 paribu-turkey.com
