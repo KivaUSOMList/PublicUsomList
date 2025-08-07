@@ -1,3 +1,6 @@
+admin.unicredit2.dancovision.ro
+tikla-hediyekazan.com
+cepteisbankasi.com
 gokhantemiz.com/wp-includes/widgets/wp-config-ini.php
 4pointshealth.com/wp-admin/includes/wp-config-ini.php
 salmanandassociates.com.pk/db_template.php
