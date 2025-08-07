@@ -1,3 +1,11 @@
+elevate.ae/wp-includes/SimplePie/wp-config-ini.php
+createch.solutions/wp-includes/wp-config-ini.php
+malbus.net/b/wp-config-ini.php
+www.ipripak.org/wp-includes/theme-compat/wp-config-ini.php
+cemsolutions.org/wp-config-ini.php
+caacademicforum.com/wp-config-ini.php
+www.ffc.com.pk/wp-admin/includes/wp-config-ini.php
+www.speedmasterprinters.co.za/wp-includes/wp-config-ini.php
 beachroad.ae/wp-includes/IXR/wp-config-ini.php
 rmbmanufactures.co.za/DataCapture/wp-config-ini.php
 www.core.org.pk/wp-includes/wp-config-ini.php
