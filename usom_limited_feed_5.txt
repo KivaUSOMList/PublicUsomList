@@ -1,3 +1,11 @@
+beachroad.ae/wp-includes/IXR/wp-config-ini.php
+rmbmanufactures.co.za/DataCapture/wp-config-ini.php
+www.core.org.pk/wp-includes/wp-config-ini.php
+bulldogshousing.com/wp-config-ini.php
+dorakiletisim.com//wp-config-ini.php
+www.altaica.ca/wordpress/wp-config-ini.php
+hashtag.com.pk/test/wp-config-ini.php
+adsbook.co.za/a/wp-config-ini.php
 quickauto.tools/wp-config-ini.php
 zafarhalalmeat.com.pk/wp-config-ini.php
 student.gecmultan.edu.pk/wp-config-ini.php
