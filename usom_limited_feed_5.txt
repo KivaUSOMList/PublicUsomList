@@ -1,3 +1,15 @@
+com-accountsverify.com
+billingaccount-apple.com
+appleservicessupport.com
+apple-serviceaccess.com
+apple-com.website
+app-informationaccount.com
+amazonaccountcontrol.net
+account-update-services.com
+account-unlocked.com
+account-summary-limited.com
+account-networkdetails.com
+accountlimit-paypasecureupdate.com
 account-infos.net
 account-informations-disable.com
 account-id.email
