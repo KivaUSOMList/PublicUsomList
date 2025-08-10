@@ -1,3 +1,8 @@
+com-locked-account-inter.com
+com-info-lockeds-myaccount.com
+com-confirmation-accountpayment.limited
+com-service-webapp-secure.rocks
+com-resolutioncenter-verifyaccount.info
 customerlogins.net
 dc-adobe.com
 email-outlook-recover-account.site
