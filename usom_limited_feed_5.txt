@@ -1,3 +1,13 @@
+com-manageserviceaccountserver.org
+com-application-login-secure.info
+com-confirmation-account.limited
+help-account-resolve.com
+googlemailsignin.online
+itunes-payment-security.com
+configuration-account-setting.com
+com-login.win
+instagramverifyy.com
+com-accounts-verify.com
 iclouds-resolverecoversclients.com
 icloud-apple-store.com
 login-book.net
