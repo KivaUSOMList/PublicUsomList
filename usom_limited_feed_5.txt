@@ -1,3 +1,8 @@
+com-secureactionaccountinutescancellogin.com
+com-reminder-refund-accountsite98312.com
+com-reconfirmationaccountpayment937.com
+google-play.store
+com-disableaccountmanagement.com
 com-manageserviceaccountserver.org
 com-application-login-secure.info
 com-confirmation-account.limited
