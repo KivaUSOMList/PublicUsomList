@@ -1,3 +1,4 @@
+acikdenizbank.app
 gooline.pk/bridge2cart/db-config-ini.php
 centreforgovernance.uk/db-config-ini.php
 willpowerpos.co.za/db-config-ini.php
