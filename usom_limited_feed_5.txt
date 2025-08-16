@@ -1,3 +1,10 @@
+h-dubepromotions.co.za/db-config-ini.php
+iancullen.co.za/db-config-ini.php
+arabelaholdings.com/wpscripts/db-config-ini.php
+tanati.co.za/db-config-ini.php
+ushostinc.com/Slider/db-config-ini.php
+capriflower.co.za/db-config-ini.php
+harmonyguesthouse.co.za/wp-includes/db-config-ini.php
 adupree.com/db-config-ini.php
 burgercoetzeeattorneys.co.za/db-config-ini.php
 ampleadminservices.com/wp-includes/db-config-ini.php
