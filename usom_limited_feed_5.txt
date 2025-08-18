@@ -1,3 +1,13 @@
+vintage.ae/wp-includes/Text/Diff/db-config-ini.php
+wegallop.com/db-config-ini.php
+beachroad.ae/wp-includes/IXR/db-config-ini.php
+interloaf.com/wp-includes/customize/connection.php
+myhealthmedical.ae/old/PHPMailer/extras/db-config-ini.php
+nabtires.com/z-backup/search/db-config-ini.php
+macleodphotography.com/theme/db-config-ini.php
+mhealth.ae/db-config-ini.php
+koldpressjuice.com/wp-includes/Requests/db-config-ini.php
+isube-kuveyturk.com
 tr-isbank-bireysel.com
 enpara-bireyselsubesi.com
 isube-garantibank-login.tk
