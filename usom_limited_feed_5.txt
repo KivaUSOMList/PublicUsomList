@@ -1,3 +1,11 @@
+pmdpk.com//db-config-ini.php
+www.galwayprimary.co.za//db-config-ini.php
+aniroleplay.net//db-config-ini.php
+albedogida.com/Eski_web/db-config-ini.php
+awuav.world//db-config-ini.php
+www.ipripak.org/wp-includes/theme-compat/db-config-ini.php
+www.nalitravel.co.za//db-config-ini.php
+cemsolutions.org/wp-admin/db-config-ini.php
 www.ffc.com.pk/wp-admin/includes/db-config-ini.php
 www.speedmasterprinters.co.za//db-config-ini.php
 www.hfhl.org.ls/images/db-config-ini.php
