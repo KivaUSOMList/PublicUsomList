@@ -1,3 +1,9 @@
+deepgraphics.co.za//db-config-ini.php
+botanikbahcesi.com/test/db-config-ini.php
+www.terapine.com//db-config-ini.php
+mhealth.ae//db-config-ini.php
+www.s5ncertificationservices.co.za//db-config-ini.php
+atexmodels.co.za//db-config-ini.php
 www.popfilms.co.za//db-config-ini.php
 www.aladiyat.ae/centers/db-config-ini.php
 indlovusecurity.co.za//db-config-ini.php
