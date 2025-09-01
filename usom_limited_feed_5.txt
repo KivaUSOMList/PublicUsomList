@@ -1,3 +1,5 @@
+doggypetstore.com//db-config-ini.php
+www.vhupo-tours.com/wp-includes/db-config-ini.php
 www.snackattack.co.za//db-config-ini.php
 www.proplumbing.co.za/wp-admin/db-config-ini.php
 sipambi-projects.co.za//db-config-ini.php
