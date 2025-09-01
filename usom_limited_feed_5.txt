@@ -1,3 +1,4 @@
+www.10shapes.com/wp-includes/db-config-ini.php
 wegallop.com//db-config-ini.php
 luxconprojects.co.za/wp-includes/db-config-ini.php
 cds.org.pk//db-config-ini.php
