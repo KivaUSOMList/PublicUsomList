@@ -1,3 +1,11 @@
+finalnewstv.com//db-config-ini.php
+www.tanati.co.za//db-config-ini.php
+breastfeedingbra.co.za//db-config-ini.php
+www.androidwikihow.com//db-config-ini.php
+cashforyousa.co.za/wpscripts/db-config-ini.php
+nolandsintl.com/templates/db-config-ini.php
+roshnee.co.za//db-config-ini.php
+hesterwebber.co.za//db-config-ini.php
 vumavaluations.co.za//db-config-ini.php
 viewphotos.co.za//db-config-ini.php
 www.mzansicompanies.co.za/wp-includes/db-config-ini.php
