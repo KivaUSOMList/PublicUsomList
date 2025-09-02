@@ -1,3 +1,8 @@
+threelivingprojects.co.za//db-config-ini.php
+www.peoplealley.com/wp-admin/db-config-ini.php
+www.rcpk.co.za//db-config-ini.php
+jakobieducation.co.za//db-config-ini.php
+globaltransformers.com/wp-admin/db-config-ini.php
 tlcservers.co.za//db-config-ini.php
 w1africa.co/crmsugar/db-config-ini.php
 www.infratechconsulting.com//db-config-ini.php
