@@ -1,3 +1,11 @@
+firstchoiceproperties.co.za//db-config-ini.php
+sikanderajam.com//db-config-ini.php
+www.geotrading.ae//db-config-ini.php
+nbscorporation.co.za//db-config-ini.php
+perfectlabels.net//db-config-ini.php
+susinternational.com//db-config-ini.php
+www.obaidsaqerbusit.com//db-config-ini.php
+gideonitesprojects.com//db-config-ini.php
 threelivingprojects.co.za//db-config-ini.php
 www.peoplealley.com/wp-admin/db-config-ini.php
 www.rcpk.co.za//db-config-ini.php
