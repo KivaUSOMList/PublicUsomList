@@ -1,3 +1,4 @@
+twickenhamsa.co.za/wp-includes/db-config-ini.php
 firstchoiceproperties.co.za//db-config-ini.php
 sikanderajam.com//db-config-ini.php
 www.geotrading.ae//db-config-ini.php
