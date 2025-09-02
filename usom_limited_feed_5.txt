@@ -1,3 +1,10 @@
+onlinenews.com.pk//db-config-ini.php
+bm360.com.pk//db-config-ini.php
+tawaair.com//db-config-ini.php
+ancoeng.co.za//db-config-ini.php
+www.koshcreative.co.uk/wp-includes/db-config-ini.php
+burgercoetzeeattorneys.co.za//db-config-ini.php
+insta-art.co.za//db-config-ini.php
 twickenhamsa.co.za/wp-includes/db-config-ini.php
 firstchoiceproperties.co.za//db-config-ini.php
 sikanderajam.com//db-config-ini.php
