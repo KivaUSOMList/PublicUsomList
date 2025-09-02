@@ -1,3 +1,13 @@
+isgs.com.pk//db-config-ini.php
+www.centreforgovernance.uk//db-config-ini.php
+in2accounting.co.za//db-config-ini.php
+chitchatdosti.com/wp-content/db-config-ini.php
+domusgroup.ae/wp-admin/db-config-ini.php
+www.alphapridesafaris.com//db-config-ini.php
+ntombizenhloso.co.za//db-config-ini.php
+thealtarofworship.co.za//db-config-ini.php
+cloudhub.co.ls/modules/db-config-ini.php
+www.olexco.ae/wp/db-config-ini.php
 uptown-trading.zar.cc/ana/db-config-ini.php
 satcomputers.co.za//db-config-ini.php
 boschxpress.com//db-config-ini.php
