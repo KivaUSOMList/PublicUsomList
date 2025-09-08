@@ -1,3 +1,4 @@
+bigfat.cc
 bingobongo.xyz
 cryptflux.info
 doitonin.icu
