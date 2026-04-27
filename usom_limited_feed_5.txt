@@ -1,3 +1,19 @@
+secure-email-gateway.cc
+secure-email-host.com
+node-protection.cc
+relay-secure-smtp.com
+secure-email-delivery.cc
+mx-secure-email-host.cc
+mx-secure-email-server.cc
+mx-secure-net.com
+privileged-secured.com
+fortinet-protection.cc
+mx-gateway-host.cc
+mail-transport-protection.cc
+mail-transport-host.cc
+mail-transport-gateway.cc
+mail-transport-agent.cc
+fortinet-server.cc
 fortinet-host.cc
 fortinet-host-protection.cc
 encrypted-network.cc
@@ -50899,6 +50915,7 @@ brck.edu.pk/wp-config-ini.php
 salmanandassociates.com.pk/wp-config-ini.php
 breadnbutter.com.pk/wp-includes/wp-config-ini.php
 asrinorganizasyon.com/wp-includes/wp-config-ini.php
+tamer.info/dle/engine/ajax/wp-config-ini.php
 bethlehemcarving.com/wp-includes/wp-config-ini.php
 www.babypk.net/wp-admin/wp-config-ini.php
 bepovoblago.com/wp-config-ini.php
@@ -50915,7 +50932,6 @@ roseace.com.pk/plugins/system/remember/wp-config-ini.php
 paimantrust.org/wp-content/plugins/contact-form-7/includes/wp-config-ini.php
 nrsp.org.pk/publications/wp-config-ini.php
 sefukaletrading.co.za/wpscripts/wp-config-ini.php
-tamer.info/dle/engine/ajax/wp-config-ini.php
 cpecsol.com/wp-includes/wp-config-ini.php
 quikteam.com/scripts/contrib/wp-config-ini.php
 nbscorporation.co.za/wp-config-ini.php
