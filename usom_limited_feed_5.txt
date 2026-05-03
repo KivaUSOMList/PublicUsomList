@@ -1,3 +1,8 @@
+bchdrop.com
+b-nance.com
+applebtc.org
+applebtc.net
+airdropseth.com
 airdrop2020.com
 airdrop2019.com
 5000fast.com
@@ -50861,8 +50866,8 @@ acikdeniztrsubetr.com
 halk-sube-tr.com
 halk-sube-tr-mobil.com
 halkbankiadelerimiz.com
-turkishairlines-comores.com
 turkeyairlinesbaydep.club
+turkishairlines-comores.com
 turkishairlines.support
 turkishairlineuk.com
 turkishairiine.com
@@ -50873,10 +50878,10 @@ hgsbakiyeyuklekazan.com
 qnbfinansaidatiadeleri.com
 mtv-edevlettr.com
 kuveyttedeniz.blogspot.com
-abrahamseed.co.za/scripts/db-config-ini.php
-paktechinfo.com/wp-includes/db-config-ini.php
-glenbridge.co.za/db-config-ini.php
 nalitravel.co.za/db-config-ini.php
+abrahamseed.co.za/scripts/db-config-ini.php
+glenbridge.co.za/db-config-ini.php
+paktechinfo.com/wp-includes/db-config-ini.php
 simplyplumbing.co.za/db-config-ini.php
 visionclinic.co.ls/includes/db-config-ini.php
 vumavaluations.co.za/db-config-ini.php
