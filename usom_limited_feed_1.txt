@@ -7,7 +7,7 @@
     name="description"
     content="SwaggerIU"
   />
-  <title>USOM API</title>
+  <title>T.C. Siber Güvenlik Başkanlığı</title>
   <link rel="stylesheet" href="swagger-ui.css" />
 </head>
 <body>
